@@ -1,4 +1,4 @@
-# ⚡ Previsão de Consumo de Energia — Grupo 6
+# Previsão de Consumo de Energia — Grupo 6
 
 Aplicação Streamlit para prever o consumo de energia elétrica residencial (Global Active Power em kW) usando Random Forest.
 
