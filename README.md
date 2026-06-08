@@ -102,11 +102,11 @@ Desenvolver um modelo de regressão capaz de prever o valor de `Global_active_po
 ## Estrutura dos Arquivos
 
 ```
-previsao-consumo-energia/
+Desafio-06-Previsao-de-Consumo-de-Energia/
 │
 ├── app.py                          # Aplicação Streamlit
-├── modelo_final.pkl                # Modelo Random Forest salvo
-├── scaler.pkl                      # StandardScaler salvo
+├── modelo_final.joblib                # Modelo Random Forest salvo
+├── scaler.joblib                      # StandardScaler salvo
 ├── requirements.txt                # Dependências do projeto
 ├── README.md                       # Documentação do projeto
 │
